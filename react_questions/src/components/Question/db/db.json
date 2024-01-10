@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "question": "What is React?",
+            "answer": "React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update and render them when the underlying data changes."
+        },
+        {
+            "question": "What are the key features of React?",
+            "answer": "Some key features of React include virtual DOM, component-based architecture, one-way data flow, and JSX syntax."
+        },
+        {
+            "question": "What is JSX?",
+            "answer": "JSX is a syntax extension for JavaScript that allows you to write HTML-like code in your JavaScript files. It is used in React to describe the structure and appearance of UI components."
+        },
+        {
+            "question": "What is the difference between state and props in React?",
+            "answer": "State is used to manage internal component data that can change over time. Props, on the other hand, are used to pass data from a parent component to its child components."
+        },
+        {
+            "question": "What is the purpose of the componentDidMount() lifecycle method?",
+            "answer": "The componentDidMount() method is called after a component has been rendered to the DOM. It is commonly used to perform tasks such as fetching data from an API or setting up event listeners."
+        }
+    ]
+}
